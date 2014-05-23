@@ -2,7 +2,6 @@
 *.slo
 *.lo
 *.o
-*.obj
 
 # Compiled Dynamic libraries
 *.so
@@ -20,3 +19,11 @@
 *.out
 *.app
 *.db
+
+/ipch
+
+/Release
+
+/Raytracer.sdf
+
+/Raytracer/Release

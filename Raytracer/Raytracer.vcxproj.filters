@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="RayTracer">
+      <UniqueIdentifier>{b9667b04-8bf8-453b-bf0f-04854042d90c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RayTracer\Scene">
+      <UniqueIdentifier>{f9fc349a-99f9-4022-aaa0-a53fd2e8049f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RayTracer\Math">
+      <UniqueIdentifier>{70d1f986-5672-46de-a95e-f07b87ae879b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AAA">
+      <UniqueIdentifier>{7649b1cf-694d-4e46-8848-eba1537b5362}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AAA\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="AAA\stdafx">
+      <UniqueIdentifier>{1a9494cc-4c31-44b7-bb85-7e97180c6bc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AAA\utils">
+      <UniqueIdentifier>{7f96298a-5c93-45e9-b7a8-4a755dd10598}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AAA\utils\Input">
+      <UniqueIdentifier>{e40ff3bc-ccda-4313-a3e2-798f4f88ae4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AAA\mesh_obj">
+      <UniqueIdentifier>{49987b1e-3d78-4443-995b-021e9dd8b839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RayTracer\Scene\Camera">
+      <UniqueIdentifier>{7c56b76a-4348-4a38-b4a2-dc6cd3fa5ddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SH">
+      <UniqueIdentifier>{a19e6589-b932-4b0a-915b-e5a8368bf597}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RayTracer\BIH">
+      <UniqueIdentifier>{cc0a8b23-55bc-4ea7-9692-82dc43f7e757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RayTracer\MemPool">
+      <UniqueIdentifier>{8126aed0-a136-486a-a5e0-c4c5640a780a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Data\ps.hlsl">
+      <Filter>SH</Filter>
+    </None>
+    <None Include="..\Data\vs.hlsl">
+      <Filter>SH</Filter>
+    </None>
+    <None Include="..\Data\cs.hlsl">
+      <Filter>SH</Filter>
+    </None>
+    <None Include="..\Data\math.hlsl">
+      <Filter>SH</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>AAA\stdafx</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>AAA</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>AAA</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowManager.h">
+      <Filter>AAA</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>RayTracer\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="model_obj.h">
+      <Filter>AAA\mesh_obj</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>RayTracer\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>AAA\utils\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>AAA\utils\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>RayTracer\Scene\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="BIH.h">
+      <Filter>RayTracer\BIH</Filter>
+    </ClInclude>
+    <ClInclude Include="MemPool.h">
+      <Filter>RayTracer\MemPool</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>RayTracer\Math</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>AAA\stdafx</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowManager.cpp">
+      <Filter>AAA</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>RayTracer</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>RayTracer\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="model_obj.cpp">
+      <Filter>AAA\mesh_obj</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>RayTracer\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>AAA\utils\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>RayTracer\Scene\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="BIH.cpp">
+      <Filter>RayTracer\BIH</Filter>
+    </ClCompile>
+    <ClCompile Include="MemPool.cpp">
+      <Filter>RayTracer\MemPool</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Raytracer.rc">
+      <Filter>AAA\Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

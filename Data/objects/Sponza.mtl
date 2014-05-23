@@ -1,0 +1,300 @@
+newmtl bricks
+	Ns 10.000000
+	Ni 0
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.900000 0.90000 0.90000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka spnza_bricks_a_diff.bmp
+	map_Kd spnza_bricks_a_diff.bmp
+	map_bump spnza_bricks_a_ddn.bmp
+	bump spnza_bricks_a_ddn.bmp
+
+newmtl ceiling
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.100000 0.100000 0.100000
+	Kd 0.900000 0.600000 0.450000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_ceiling_a_diff.bmp
+	map_Kd sponza_ceiling_a_diff.bmp
+
+newmtl column_a
+	Ns 10.000000
+	Ni 0
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.900000 0.600000 0.450000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_column_a_diff.bmp
+	map_Kd sponza_column_a_diff.bmp
+	map_bump sponza_column_a_ddn.bmp
+	bump sponza_column_a_ddn.bmp
+
+newmtl arch
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_arch_diff.bmp
+	map_Kd sponza_arch_diff.bmp
+
+newmtl floor
+	Ns 1.000000
+	Ni 1
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 0.900000 0.800000
+	Ks 0.000000 0.000000 0.000000 
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_floor_a_diff.bmp
+	map_Kd sponza_floor_a_diff.bmp
+
+newmtl column_b
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.900000 0.600000 0.450000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_column_b_diff.bmp
+	map_Kd sponza_column_b_diff.bmp
+	map_bump sponza_column_b_ddn.bmp
+	bump sponza_column_b_ddn.bmp
+
+newmtl column_c
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.400000 0.700000 0.900000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_column_c_diff.bmp
+	map_Kd sponza_column_c_diff.bmp
+	map_bump sponza_column_c_ddn.bmp
+	bump sponza_column_c_ddn.bmp
+
+newmtl details
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_details_diff.bmp
+	map_Kd sponza_details_diff.bmp
+
+newmtl Material__47
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl wire_177088027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.600000 0.600000 0.600000
+	Ks 0.000000 0.000000 0.000000
+
+newmtl roof
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.800000 0.100000 0.100000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_roof_diff.bmp
+	map_Kd sponza_roof_diff.bmp
+
+newmtl wire_225143087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.882353 0.560784 0.341176
+	Ks 0.000000 0.000000 0.000000
+
+newmtl leaf
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.100000 0.100000 0.000000
+	Kd 0.250000 0.650000 0.200000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_thorn_diff.bmp
+	map_Kd sponza_thorn_diff.bmp
+	map_d sponza_thorn_mask.bmp
+	map_bump sponza_thorn_ddn.bmp
+	bump sponza_thorn_ddn.bmp
+
+newmtl fabric
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.700000 0.200000 0.200000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sponza_fabric_diff.bmp
+	map_Kd sponza_fabric_diff.bmp
+
+newmtl vase_hanging
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.600000 0.600000 0.600000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka vase_hanging.bmp
+	map_Kd vase_hanging.bmp
+
+newmtl chain
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka chain_texture.bmp
+	map_Kd chain_texture.bmp
+	map_d chain_texture_mask.bmp
+	map_bump chain_texture_ddn.bmp
+	bump chain_texture_ddn.bmp
+
+newmtl vase_round
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.600000 0.600000 0.600000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka vase_round.bmp
+	map_Kd vase_round.bmp
+	map_bump vase_round_ddn.bmp
+	bump vase_round_ddn.bmp
+
+newmtl Material__57
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.250000 0.600000 0.200000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka vase_plant.bmp
+	map_Kd vase_plant.bmp
+	map_d vase_plant_mask.bmp
+
+newmtl vase
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.600000 0.600000 0.600000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka vase_dif.bmp
+	map_Kd vase_dif.bmp
+
+newmtl Material__25
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka lion.bmp
+	map_Kd lion.bmp
+	map_bump lion_ddn.bmp
+	bump lion_ddn.bmp
+
+newmtl 16___Default
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 1
+	Ka 0.000000 0.000000 0.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000

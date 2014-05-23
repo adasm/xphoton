@@ -1,0 +1,1898 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5.5 5.5.3.2642 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Body_paint
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Base
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__580
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 12.996
+map_Kd MUSTANGSHLBYO BRAKELIGHT.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint0
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint1
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperF3
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint2
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Black0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperR2
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint3
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Door
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Driver
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DRIVER.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint4
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine_Chrome
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine_Chrome0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd ENGINE.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Engine3
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd C:\\Erwan\\3D\\CARS\\NFS Cars\\NFSC KOENIGSEGG CCX\\CCX MISC.tga
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Exhaust
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__589
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 48.5029
+map_Kd MUSTANGSHLBYO HEADLIGHT.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__590
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO HEADLIGHT.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl HeadLights
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 48.5029
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__591
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 128
+d 0.36
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint5
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Hood
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interior
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO INTERIOR.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Interior0
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__593
+Ka 0.611765 0.913726 0.588235
+Kd 0.611765 0.913726 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mirror
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__622
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Roof
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__623
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Skirt1
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__596
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+d 0.29
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__620
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+d 0.29
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire
+Ka 0.192157 0.192157 0.192157
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 5.65685
+map_Kd TIRE.png
+map_bump TIRE BUMP.png
+bump TIRE BUMP.png
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire_Back
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 5.65685
+map_Kd 
+map_bump 
+bump 
+map_opacity TIREBACK.png
+map_d TIREBACK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mat
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 39.3966
+map_Kd MUSTANGSHLBYO RIM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__598
+Ka 0.588 0.588 0.588
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd MUSTANGSHLBYO RIM1.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Mat0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 32
+map_Kd MUSTANGSHLBYO RIM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Tire0
+Ka 0.192157 0.192157 0.192157
+Kd 0.192157 0.192157 0.192157
+Ks 1 1 1
+illum 2
+Ns 5.65685
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Disc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BRAKDISC.png
+map_bump 
+bump 
+map_opacity TIREBACK.png
+map_d TIREBACK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Pads
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brakes_R
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Pads0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brake_Disc0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BRAKDISC.png
+map_bump 
+bump 
+map_opacity TIREBACK.png
+map_d TIREBACK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Brakes_F
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl License
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd LICENSE.png
+map_bump 
+bump 
+map_opacity LICENSE MASK.png
+map_d LICENSE MASK.png
+refl LICENSE MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint6
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__601
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+illum 2
+Ns 36.7583
+d 0.32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperF1
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint7
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome8
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperR1
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__625
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Skirt3
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint8
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome9
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Black1
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperR3
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__624
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Skirt2
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Grill
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd MUSTANGSHLBYO GRILL.png
+map_bump 
+bump 
+map_opacity MUSTANGSHLBYO GRILL MASK.png
+map_d MUSTANGSHLBYO GRILL MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Body_paint9
+Ka 0.921569 0.737255 0.588235
+Kd 0.921569 0.737255 0.588235
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc_Chrome10
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Misc8
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd MUSTANGSHLBYO MISC.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl DoorLine7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd DOORLINE.png
+map_bump 
+bump 
+map_opacity DOORLINE MASK.png
+map_d DOORLINE MASK.png
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Black2
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Badging_Chrome8
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 64
+map_Kd MUSTANGSHLBYO BADGING.png
+map_bump MUSTANGSHLBYO BADGING NORMAL.png
+bump MUSTANGSHLBYO BADGING NORMAL.png
+map_opacity MUSTANGSHLBYO BADGING MASK.png
+map_d MUSTANGSHLBYO BADGING MASK.png
+refl MUSTANGSHLBYO BADGING MASK.png
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Bottom7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+illum 2
+Ns 4
+map_Kd BOTTOM.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl BumperF2
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.9 0.9 0.9
+illum 2
+Ns 27.8576
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 

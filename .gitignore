@@ -19,5 +19,4 @@
 *.exe
 *.out
 *.app
-Data/Thumbs.db
 *.db

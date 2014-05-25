@@ -32,29 +32,12 @@
     <Filter Include="RayTracer\Scene\Camera">
       <UniqueIdentifier>{7c56b76a-4348-4a38-b4a2-dc6cd3fa5ddf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="SH">
-      <UniqueIdentifier>{a19e6589-b932-4b0a-915b-e5a8368bf597}</UniqueIdentifier>
-    </Filter>
     <Filter Include="RayTracer\BIH">
       <UniqueIdentifier>{cc0a8b23-55bc-4ea7-9692-82dc43f7e757}</UniqueIdentifier>
     </Filter>
     <Filter Include="RayTracer\MemPool">
       <UniqueIdentifier>{8126aed0-a136-486a-a5e0-c4c5640a780a}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\Data\ps.hlsl">
-      <Filter>SH</Filter>
-    </None>
-    <None Include="..\Data\vs.hlsl">
-      <Filter>SH</Filter>
-    </None>
-    <None Include="..\Data\cs.hlsl">
-      <Filter>SH</Filter>
-    </None>
-    <None Include="..\Data\math.hlsl">
-      <Filter>SH</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

@@ -396,7 +396,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 
 	/*************************LOAD SCENE*************************/
-	bool bLoadSponza = true;
+	bool bLoadSponza = 0;
 	gScene.load(bLoadSponza?"..\\Data\\objects\\sponza.obj":"..\\Data\\objects\\room1h.obj");
 
 	// VERTEX

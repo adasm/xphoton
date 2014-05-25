@@ -80,12 +80,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="..\Data\cs.hlsl" />
-    <None Include="..\Data\math.hlsl" />
-    <None Include="..\Data\ps.hlsl" />
-    <None Include="..\Data\vs.hlsl" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="BIH.h" />
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Input.h" />

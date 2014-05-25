@@ -23,7 +23,7 @@ float3 ToneMapping(float3 color, float exposure)
 float4 main(VS_OUTPUT In) : SV_TARGET0
 {
 	float3 color = g_Texture[ (In.Pos.x - 0.5) + (g_OutResolution.y - (In.Pos.y - 0.5)) * g_OutResolution.x ].rgb;
-	color = ToneMapping(color, 1);
+	color = ToneMapping(color, 2);
 	return float4(color, 1);
 }
 
